@@ -1,0 +1,12 @@
+{
+    "java.home": "/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home",
+    "java.configuration.maven.userSettings": "/opt/homebrew/Cellar/maven/3.9.6/libexec",
+    "java.import.gradle.java.home": "/opt/homebrew/bin/gradle",
+    "java.completion.filteredTypes": [
+        "com.sun.*",
+        "sun.*",
+        "jdk.*",
+        "org.graalvm.*",
+        "io.micrometer.shaded.*"
+    ]
+}
